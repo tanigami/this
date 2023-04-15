@@ -87,6 +87,10 @@
           }
         }
       }
+    },
+    "smallsize": {
+      "value": "10",
+      "type": "sizing"
     }
   },
   "button": {
@@ -145,5 +149,11 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core",
+      "button"
+    ]
+  }
 }
