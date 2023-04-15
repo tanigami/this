@@ -119,6 +119,14 @@
     "smallbrad": {
       "value": "10",
       "type": "borderRadius"
+    },
+    "font-weight-bold": {
+      "value": "bold",
+      "type": "fontWeights"
+    },
+    "line-height-body": {
+      "value": "27",
+      "type": "lineHeights"
     }
   },
   "button": {
