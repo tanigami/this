@@ -119,6 +119,10 @@
     "largespace": {
       "value": "40",
       "type": "spacing"
+    },
+    "hugespace": {
+      "value": "50",
+      "type": "spacing"
     }
   },
   "button": {
