@@ -27,7 +27,5 @@ jobs:
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
         with:
-          author_name: Hiforufi Tanigami
-          author_email: tanigami@gmail.com
           message: 'chore: style-dictionary output'
           add: '.'
