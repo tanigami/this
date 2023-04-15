@@ -99,6 +99,10 @@
     "largesize": {
       "value": "30",
       "type": "sizing"
+    },
+    "hugesize": {
+      "value": "40",
+      "type": "sizing"
     }
   },
   "button": {
