@@ -23,7 +23,6 @@
   --figma-core-core-colors-grey-700: #374151;
   --figma-core-core-colors-grey-800: #1f2937;
   --figma-core-core-colors-grey-900: #111827;
-  --figma-core-smallsize: 10;
   --figma-core-midsize: 20;
   --figma-core-largesize: 30;
   --figma-core-hugesize: 40;
@@ -71,7 +70,6 @@
   --figma-button-outline-background: rgba(0,0,0,0);
   --figma-button-outline-border-color: #f9fafb;
   --figma-button-outline-hover-background: rgba(255,255,255,0.1);
-  --figma-smallsize: 10;
   --figma-midsize: 20;
   --figma-largesize: 30;
   --figma-hugesize: 40;
