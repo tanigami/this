@@ -1,5 +1,14 @@
 {
-  "global": {},
+  "global": {
+    "smallsize": {
+      "value": "10",
+      "type": "sizing"
+    },
+    "midsize": {
+      "value": "20",
+      "type": "sizing"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
