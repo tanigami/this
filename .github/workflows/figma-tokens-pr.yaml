@@ -31,3 +31,4 @@ jobs:
           author_email: tanigami@gmail.com
           message: 'chore: style-dictionary output'
           add: '.'
+
