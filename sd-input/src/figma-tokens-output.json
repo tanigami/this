@@ -103,6 +103,10 @@
     "hugesize": {
       "value": "40",
       "type": "sizing"
+    },
+    "giantsize": {
+      "value": "50",
+      "type": "sizing"
     }
   },
   "button": {
