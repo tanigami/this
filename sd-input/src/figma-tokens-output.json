@@ -115,6 +115,10 @@
     "midspace": {
       "value": "30",
       "type": "spacing"
+    },
+    "largespace": {
+      "value": "40",
+      "type": "spacing"
     }
   },
   "button": {
