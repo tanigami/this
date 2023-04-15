@@ -123,6 +123,10 @@
     "hugespace": {
       "value": "50",
       "type": "spacing"
+    },
+    "giantspace": {
+      "value": "60",
+      "type": "spacing"
     }
   },
   "button": {
