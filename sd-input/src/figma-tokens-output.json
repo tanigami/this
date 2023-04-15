@@ -95,6 +95,10 @@
     "midsize": {
       "value": "20",
       "type": "sizing"
+    },
+    "largesize": {
+      "value": "30",
+      "type": "sizing"
     }
   },
   "button": {
