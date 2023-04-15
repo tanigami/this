@@ -140,5 +140,47 @@
         }
       }
     }
+  },
+  "smallsize": {
+    "value": 10,
+    "type": "sizing"
+  },
+  "midsize": {
+    "value": 20,
+    "type": "sizing"
+  },
+  "largesize": {
+    "value": 30,
+    "type": "sizing"
+  },
+  "hugesize": {
+    "value": 40,
+    "type": "sizing"
+  },
+  "giantsize": {
+    "value": 50,
+    "type": "sizing"
+  },
+  "smallspace": {
+    "value": 10,
+    "type": "spacing"
+  },
+  "midspace": {
+    "value": 30,
+    "type": "spacing"
+  },
+  "smallbrad": {
+    "value": 10,
+    "type": "borderRadius"
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "core",
+      "type": "other"
+    },
+    "1": {
+      "value": "button",
+      "type": "other"
+    }
   }
 }
