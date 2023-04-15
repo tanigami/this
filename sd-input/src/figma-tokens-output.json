@@ -127,6 +127,10 @@
     "giantspace": {
       "value": "60",
       "type": "spacing"
+    },
+    "smallbrad": {
+      "value": "10",
+      "type": "borderRadius"
     }
   },
   "button": {
